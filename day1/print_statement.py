@@ -1,4 +1,12 @@
 #First task
+
 #print a statement, that says hello + my name and make the name as an input
 
-print("hello "+ input("Whats ur name ?\n"))
+#adding line escape sequence to format strings in Python
+
+print("hello \n"+ input("whats your name \n") + "\n hello again")
+
+
+
+
+
